@@ -1,0 +1,68 @@
+body{
+    background-image: url(/src/images/back/3.jpg);
+    color:aliceblue;
+    
+}
+.imagecontainer{
+    width: 90%;
+    justify-content: center;
+    margin-left: 1.3cm;
+    margin-top: 8cm;
+    text-align: center;
+}
+.imagecontainer button{
+    min-width: 7cm;
+    max-width: 7cm;
+    min-height: 4cm;
+    max-height: 4cm;
+   border-radius: 1cm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    margin-left: 15mm;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    font-size: 1cm;
+    font-weight: bolder;
+}
+.buttonhomea{
+    background-color: #f79256;
+}
+.buttonhomeb{
+    background-color:#fbd1a2;
+}
+.buttonhomec{
+    background-color:#f79256;
+}
+.aa{
+    color: #f79256;
+    font-size: 1.5cm;
+    font-weight: bolder;
+}
+.bb{
+    color:#fbd1a2;
+    font-size: 1.5cm;
+    font-weight: bolder;
+}
+.cc{
+     color: #f79256;
+     font-size: 1.5cm;
+     font-weight: bolder;
+}
+.header{
+    text-align: center;
+    margin-top: 2cm;
+}
+.buttonhomea:hover{
+    background-color: lightgreen;
+}
+.buttonhomeb:hover{
+    background-color: lightcoral;
+}
+.buttonhomec:hover{
+    background-color: rgb(200, 74, 74);
+}
+
+
+
